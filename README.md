@@ -39,7 +39,7 @@ I optimize for personality and character.
         
  +  **Notable Work:**
  
-     +  Helped to get [https://github.com/glitch-soc/mastodon](glitch-soc) off the ground.
+     +  Helped to get [glitch-soc](https://github.com/glitch-soc/mastodon) off the ground.
         Not involved with it anymore, but you can read a bit about my contributions [here](https://go.kibi.family/Oct/2018/fringe-glitch.xhtml).
         
      +  Created a little markup language called [Market Commons](https://github.com/marrus-sh/MarketCommons-Racket).
