@@ -35,7 +35,7 @@ I optimize for personality and character.
         When addressing me impersonally, i.e., formally.
         
      +  **hyo/hie/hie/hine/hieself:**
-        If you want to rid yourself of the concept of gendered pronouns entirely.
+        If you’re *really adventurous* and want to rid yourself of the concept of gendered pronouns entirely.
         
  +  **Notable Work:**
  
@@ -45,3 +45,8 @@ I optimize for personality and character.
      +  Created a little markup language called [Market Commons](https://github.com/marrus-sh/MarketCommons-Racket).
      
      +  Created a *massive* makefile for building books for distribution from Markdown sources called [BookGen](https://github.com/marrus-sh/BookGen).
+
+## Contact ##
+
+The best way to get ahold of me is [on the fediverse](https://joinmastodon.org).
+My current home is [@Leaf@donphan.social](https://donphan.social/@Leaf).
