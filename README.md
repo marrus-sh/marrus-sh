@@ -8,6 +8,8 @@ This is explicitly to discourage outside one‐off contributions.
 I believe in community‐based collaboration, not anonymous software patches.
 I optimize for personality and character.
 
+My full profile can be seen at <https://go.KIBI.family/About/>.
+
 ##  Crib Sheet  ##
 
  +  **Relevant Monikers:**
@@ -25,18 +27,6 @@ I optimize for personality and character.
      +  **marrus-sh:**
         This username is essentially grandfathered on account of me having a ton of repositories and not wanting to break everything by changing it :P .
         
- +  **Pronouns:**
- 
-     +  **she/her/her/hers/herself:**
-        When addressing me personally, acknowledging my contributions to the culture, etc.
-        “Firstname basis” pronouns.
-        
-     +  **they/them/their/theirs/themself:**
-        When addressing me impersonally, i.e., formally.
-        
-     +  **hyo/hie/hie/hine/hieself:**
-        If you’re *really adventurous* and want to rid yourself of the concept of gendered pronouns entirely.
-        
  +  **Notable Work:**
  
      +  Helped to get [glitch-soc](https://github.com/glitch-soc/mastodon) off the ground.
@@ -46,7 +36,7 @@ I optimize for personality and character.
      
      +  Created a *massive* makefile for building books for distribution from Markdown sources called [BookGen](https://github.com/marrus-sh/BookGen).
 
-## Contact ##
+##  Contact  ##
 
 The best way to get ahold of me is [on the fediverse](https://joinmastodon.org).
 My current home is [@Leaf@donphan.social](https://donphan.social/@Leaf).
