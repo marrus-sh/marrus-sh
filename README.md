@@ -34,3 +34,5 @@ My full profile can be seen at <https://go.KIBI.family/About/>.
  
      +  The best way to get ahold of me is [on the fediverse](https://joinmastodon.org).
         My current home is [@Leaf@donphan.social](https://donphan.social/@Leaf).
+
+<p align="right"><em>With love,</em><br/><img alt="KIBIGO" height="32" src="https://go.KIBI.family/Images/Logotype/image.svg"/></p>
